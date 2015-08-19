@@ -1,0 +1,9 @@
+{
+  "name": "nativescript-plugin-appcompat",
+  "version": "0.0.1",
+  "nativescript": {
+    "platforms": {
+      "android": "1.2.1"
+    }
+  }
+}
