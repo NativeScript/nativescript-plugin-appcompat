@@ -1,6 +1,6 @@
 {
   "name": "nativescript-plugin-appcompat",
-  "version": "0.0.1",
+  "version": "22.2.0",
   "license": "Apache-2.0",
   "nativescript": {
     "platforms": {
